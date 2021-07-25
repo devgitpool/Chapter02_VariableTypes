@@ -62,15 +62,15 @@ public class SystemInOut {
 //		[ScannerExample.java] : 
 		
 		// java.lang 패키지 아니므로 import
-		java.util.Scanner scan = new java.util.Scanner(System.in);
-		String str = "";
-		while(true) {
-			System.out.printf("입력된 문자열: \"%s\"\n", str = scan.nextLine());
-			if(str.equalsIgnoreCase("q")) {
-				break;
-			}
-		}
-		scan.close();
-		System.out.println("프로그램 종료");
+//		java.util.Scanner scan = new java.util.Scanner(System.in);
+//		String str = "";
+//		while(true) {
+//			System.out.printf("입력된 문자열: \"%s\"\n", str = scan.nextLine());
+//			if(str.equalsIgnoreCase("q")) {
+//				break;
+//			}
+//		}
+//		scan.close();
+//		System.out.println("프로그램 종료");
 	}
 }
