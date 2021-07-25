@@ -35,6 +35,8 @@ public class Testing {
 		 * 2. 주민번호 앞 6자리:
 		 * 3. 전화번호: 
 		 */
+
+// test
 		String name = "";
 		String socialSecurityNumber = "";
 		String mobile = "";
